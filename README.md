@@ -1,1 +1,1 @@
-# CS-540
+# CS 540 Introduction to Artificial Intelligence
